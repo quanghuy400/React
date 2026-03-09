@@ -1,6 +1,7 @@
-Nguyễn Quang Huy - 23810310172 - Hoàn thiện sile buổi 6
+Nguyễn Quang Huy - 23810310172 - Hoàn thiện bài kiểm tra 01
 
-![hook2](https://github.com/user-attachments/assets/cfd3be92-109c-46b2-bd14-0212c8e53950)
+![kt1](https://github.com/user-attachments/assets/5e2d97d0-9dc8-4d06-815d-4f1b25feaaaa) 
+![kt11](https://github.com/user-attachments/assets/794ff4ab-bdb0-4333-a889-63d4ed2a47c7)
 
-![hook1](https://github.com/user-attachments/assets/033f7841-d775-4913-9233-850bd38f71a6)
+
 
